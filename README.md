@@ -11,5 +11,13 @@ $ npm i cheerio
 $ npm i postman-request
 ```
 
+As an output you will see the following:
+
+![](20.10.2021_23.01.32_REC.png)
+
+<br>
+
+![](20.10.2021_23.03.20_REC.png)
+
 
 
